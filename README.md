@@ -1,4 +1,4 @@
-# Customer Support Chatbot — Production Starter
+# Customer Support Chatbot 
 
 This is a production-ready starter for a Customer Support Chatbot using:
 - FastAPI backend with RAG + OpenAI (embeddings + Chat)
